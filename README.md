@@ -17,7 +17,7 @@ This tool allows you to encrypt and decrypt images by applying basic mathematica
 - Python 3.x
   
 - Pillow library
-- 
+  
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
